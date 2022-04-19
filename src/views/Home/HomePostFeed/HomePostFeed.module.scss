@@ -1,0 +1,17 @@
+.HomePostFeed {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+
+  .HomePostFeedPostContainer {
+    min-height: 20%;
+    width: calc(40% - 2px);
+    margin-left: 30%;
+    // background-color: purple;
+    // border: 1px solid purple;
+    margin-top: 2rem;
+  }
+
+}
