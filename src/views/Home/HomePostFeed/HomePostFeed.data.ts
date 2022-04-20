@@ -36,7 +36,7 @@ export const homePostFeedData = {
       id: 5,
       authorName: 'POTUS',
       authorHandle: '@potus',
-      body: 'Putin is dead! and Blabbit is alive!',
+      body: 'blabbit up',
       thumbUp: 0,
       thumbDown: 0,
     },
@@ -44,7 +44,7 @@ export const homePostFeedData = {
       id: 6,
       authorName: 'SCOTUS',
       authorHandle: '@scotus',
-      body: 'Putin is dead! and Blabbit is alive!',
+      body: 'blabbit up',
       thumbUp: 0,
       thumbDown: 0,
     }
